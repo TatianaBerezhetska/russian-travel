@@ -5,6 +5,6 @@
   background-color: #2A2C2F;
 }
 
-div, p, h1, h2, h3, ul, li, a {    
+div, p, h1, h2, h3, ul, li, a, img {    
   outline: 1px red dashed;
   }
