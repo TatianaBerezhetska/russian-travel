@@ -1,6 +1,5 @@
 .place__title {
   max-width: 460px;
-  max-height: 152px;
   font-family: Inter;
   font-weight: 900;
   font-size: 72px;
@@ -8,4 +7,8 @@
   color: #FFFFFF;
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 1279px) {
+  max-width: 440px;
 }
