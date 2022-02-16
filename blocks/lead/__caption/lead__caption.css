@@ -2,12 +2,9 @@
   max-width: 158px;
   font-size: 10px;
   line-height: 1.4;
-  font-family: Inter;
-  font-style: normal;
   font-weight: 400;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #FFFFFF;
   align-self: flex-start;
   margin: 8px 0 0 100px;
 }
@@ -15,5 +12,17 @@
 @media screen and (max-width: 1279px) {
   .lead__caption {
     margin: 8px 0 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__caption {
+    margin: 8px 0 0 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__caption {
+    margin: 8px 0 0 16px;
   }
 }
