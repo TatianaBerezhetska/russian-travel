@@ -5,3 +5,9 @@
 }
 /*Использован флекс-контейнер, чтобы реализовать 
 расстояние между абзацами в 26px*/
+
+@media screen and (max-width: 620px) {
+  .place__paragraphs {
+    margin: 0 16px;
+  }
+}
