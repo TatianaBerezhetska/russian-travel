@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .intro__list-item {
   max-width: 690px;
   font-weight: normal;
   font-size: 12px;
   line-height: 1.5;
+=======
+.intro__list-item {
+  max-width: 690px;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.5;
+>>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

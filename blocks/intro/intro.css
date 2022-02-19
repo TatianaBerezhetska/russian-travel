@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .intro {
   padding: 0 0 0 100px;
   margin: 92px auto;
@@ -21,4 +22,29 @@
     padding: 0 16px;
     margin: 64px auto;
   }
+=======
+.intro {
+  padding: 0 0 0 100px;
+  margin: 92px auto;
+}
+
+@media screen and (max-width: 1279px) { 
+  .intro {
+    padding: 0 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) { 
+  .intro {
+    padding: 0 24px;
+    margin: 88px auto;
+  }
+}
+
+@media screen and (max-width: 767px) { 
+  .intro {
+    padding: 0 16px;
+    margin: 64px auto;
+  }
+>>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

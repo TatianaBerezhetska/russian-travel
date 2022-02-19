@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__logo {
   max-width: 176px;
   margin-top: 28px;
@@ -8,4 +9,16 @@
   .header {
     margin-top: 16px;
   }
+=======
+.header__logo {
+  max-width: 176px;
+  margin-top: 28px;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    margin-top: 16px;
+  }
+>>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

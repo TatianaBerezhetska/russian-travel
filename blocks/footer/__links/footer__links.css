@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__links {
   list-style-type: none;
   display: flex;
@@ -11,4 +12,19 @@
     flex-direction: column;
     gap: 32px;
   }
+=======
+.footer__links {
+  list-style-type: none;
+  display: flex;
+  gap: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__links {
+    flex-direction: column;
+    gap: 32px;
+  }
+>>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

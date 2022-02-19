@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__copyright {
   font-size: 14px;
   line-height: 1.14;
@@ -9,4 +10,17 @@
     line-height: 1;
     margin-top: 48px;
   }
+=======
+.footer__copyright {
+  font-size: 14px;
+  line-height: 1.14;
+  margin: 0;
+}
+
+@media screen and (max-width: 767px){
+  .footer__copyright {
+    line-height: 1;
+    margin-top: 48px;
+  }
+>>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

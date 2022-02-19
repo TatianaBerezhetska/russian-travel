@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__url-heading {
   font-weight: 400;
   font-size: 12px;
@@ -5,4 +6,13 @@
   letter-spacing: 2px;
   text-transform: uppercase;
   margin: 0 0 12px;
+=======
+.place__url-heading {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 0 0 12px;
+>>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

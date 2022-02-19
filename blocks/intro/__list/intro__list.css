@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .intro__list {
   max-width: 690px;
   list-style-type: none;
   padding-left: 0;
   margin: 0;
+=======
+.intro__list {
+  max-width: 690px;
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+>>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }
