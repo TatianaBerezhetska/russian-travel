@@ -1,0 +1,13 @@
+.place__paragraphs {
+  display: flex;
+  flex-direction: column;
+  row-gap: 26px;
+}
+/*Использован флекс-контейнер, чтобы реализовать 
+расстояние между абзацами в 26px*/
+
+@media screen and (max-width: 620px) {
+  .place__paragraphs {
+    margin: 0 16px;
+  }
+}
