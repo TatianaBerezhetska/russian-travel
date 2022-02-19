@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .cover {
   width: 100%;
   max-width: 100%;
@@ -16,23 +15,4 @@
   .cover {
     margin: 0 0 64px;
   }
-=======
-.cover {
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-  margin: 0 auto 92px;
-}
-
-@media screen and (max-width: 1023px) {
-  .cover {
-    margin: 0 0 88px;
-  }
-}
-
-@media screen and (max-width: 424px) {
-  .cover {
-    margin: 0 0 64px;
-  }
->>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

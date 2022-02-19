@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .header__lang-link {
   font-weight: normal;
   font-size: 24px;
@@ -12,19 +11,4 @@
     font-size: 18px;
     line-height: 1.11;
   }
-=======
-.header__lang-link {
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 1.15;
-  color: #FFFFFF;
-  text-decoration: none;
-}
-
-@media screen and (max-width: 767px) {
-  .header__lang-link {
-    font-size: 18px;
-    line-height: 1.11;
-  }
->>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

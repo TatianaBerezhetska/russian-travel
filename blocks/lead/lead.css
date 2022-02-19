@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .lead {
   display: flex;
   flex-direction: column;
@@ -16,23 +15,4 @@
   .lead {
     padding: 0;
   }
-=======
-.lead {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0 100px;
-}
-
-@media screen and (max-width: 1279px) {
-  .lead {
-    padding: 0 48px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .lead {
-    padding: 0;
-  }
->>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

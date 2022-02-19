@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .footer {
   display: flex;
   justify-content: space-between;
@@ -22,29 +21,4 @@
     flex-direction: column;
     padding: 0 16px;
   }
-=======
-.footer {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 0 24px;
-}
-
-@media screen and (max-width:1279px) {
-  .footer {
-    padding: 0 48px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .footer {
-    padding: 0 24px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .footer {
-    flex-direction: column;
-    padding: 0 16px;
-  }
->>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }

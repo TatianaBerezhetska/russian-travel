@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .place__link {
   font-weight: 400;
   font-size: 18px;
@@ -12,19 +11,4 @@
 
 .place__link:hover {
   opacity: 0.8;
-=======
-.place__link {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 1.22;
-  color: #FFFFFF;
-  opacity: 1;
-  text-decoration: underline;
-  transition: opacity 1s ease-in-out;
-  margin: 0;
-}
-
-.place__link:hover {
-  opacity: 0.8;
->>>>>>> af3ab0d003c9c8dee40007e262c93d368ef9dfdf
 }
